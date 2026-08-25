@@ -79,3 +79,10 @@ Order Clustering
 Risk-Based Resource Allocation
       ↓
 Business Insights
+
+---
+
+👨‍💻 Author
+Vijay Kumar A G
+M.Tech – Data Science
+Internship Task – Week 1
